@@ -7,7 +7,7 @@ Game Developer
 - Implemented card battle system with different play modes.
 - Implemented different types of card abilities.
 - Created scoring system.
-- Created tutorial and UI sytem and menus.
+- Implemented tutorial, UI system and menus.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5waL_I-ES5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Bit Fender
@@ -19,7 +19,7 @@ Game Developer
 - Implemented destructable environment.
 - Created power ups system.
 - Created mini map navigation system.
-- Implemented tutorial and UI system and menus.
+- Implemented tutorial, UI system and menus.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VUo_3b71bMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Tropical Adventure
@@ -32,7 +32,7 @@ Game Developer
 - Implemented patrolling enemy AI.
 - Implemented particle system.
 - Created collectable coins and scoring system.
-- Implemented tutorial and UI system and menus.
+- Implemented tutorial, UI system and menus.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zId4Gn3vedw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Healthy Lifestyle Simulator
@@ -45,3 +45,37 @@ Game Developer
 - Implemented interactable tutorial.
 - Created UI and menu systems.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g8ZaDowg6yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Deep Horizons
+- Created keyboard and on screen touch controls.
+- Created random level generation system.
+- Implemented camera shake effect.
+- Implemented particle system.
+- Implemented level transition system.
+- Implemented collectables for scoring.
+- Created interactable objects.
+- Implemented tutorial, UI system and menus.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uzykYeWXnqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Grand Pizzeria
+- Created different in game measurement systems such as length, weight, volume, etc.
+- Implemented unit conversion system such as liter to milliliter, centimeter to meter, etc.
+- Implemented timer to trigger timed events.
+- Implemented scoring based on the player performance and accuracy.
+- Implemented random recepies generator for unique pizza orders.
+- Implemented water shader for water floating effect.
+- Implemented tutorial, UI system and menus.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EqBXC3dsJXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Moonwalk
+- Created a horizontal procedural level generation system.
+- Implemented camera panning effects
+- Implemented enemy AI.
+- Implemented dialouge system.
+- Implemented switch on/off for answering questions system.
+- Implemented collectables for scoring.
+- Implemented tutorial, UI system and menus.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W1jWMd_cR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
