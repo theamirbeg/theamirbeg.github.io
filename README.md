@@ -72,10 +72,30 @@ Game Developer
 
 # Moonwalk
 - Created a horizontal procedural level generation system.
-- Implemented camera panning effects
+- Implemented camera panning effects.
 - Implemented enemy AI.
 - Implemented dialouge system.
 - Implemented switch on/off for answering questions system.
 - Implemented collectables for scoring.
 - Implemented tutorial, UI system and menus.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W1jWMd_cR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Country Racer
+- Created a touch based player controller.
+- Created endless level system.
+- Implemneted obstacle spwanning sytem using object pooling to increase game performance.
+- Implemented camera shake effect.
+- Implemented sfx and random music playing systems.
+- Implemented particle system for vfx.
+- Implemented infinite scrolling background effect.
+- Created score and high score systems.
+- Implemented monitization using different type of ads such as rewarded ads, banner ads, interstitial ads.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oeaLEGAja00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Super Ice Boy
+- Created a physics based platformer player controller.
+- Implemented Enemy AI.
+- Implemented level selection and unlocking system.
+- Created coin collection and scoring system.
+- Implemented monitization using ads.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hss1YQi_W6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
