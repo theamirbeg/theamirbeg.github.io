@@ -1,7 +1,7 @@
 Game Developer
 ## Portfolio
 
-> ## Work in Udayy    
+## Work in Udayy      
   
 # Shape Shifters  
 **Card game for learning different geometric shapes**  
@@ -82,9 +82,9 @@ Game Developer
 - Implemented switch on/off for answering questions system.
 - Implemented collectables for scoring.
 - Implemented tutorial, UI system and menus.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W1jWMd_cR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W1jWMd_cR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-> ## Work in Code Knight Games    
+## Work in Code Knight Games    
 
 # Country Racer
 **Endless mobile racing game**  
