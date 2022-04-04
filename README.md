@@ -1,6 +1,4 @@
-# Mohammad Amir Beg
-Game Developer
-### Portfolio
+## Portfolio
 
 # Shape Shifters
 - Implemented dynamic AI which plays offensive/defensive based on the player grade.
