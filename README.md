@@ -2,7 +2,8 @@ Game Developer
 ## Portfolio
 
 # Shape Shifters  
-> Card game for learning different geometric shapes  
+> Card game for learning different geometric shapes 
+
 - Implemented dynamic AI which plays offensive/defensive based on the player grade.
 - Created modular deck system which is scalable to add more types of cards.
 - Implemented card battle system with different play modes.
