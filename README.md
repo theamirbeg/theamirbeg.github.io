@@ -89,7 +89,7 @@ Game Developer
 - Implemented particle system for vfx.
 - Implemented infinite scrolling background effect.
 - Created score and high score systems.
-- Implemented monitization using different type of ads such as rewarded ads, banner ads, interstitial ads.
+- Implemented monitization using different type of ads such as rewarded ads, banner ads, interstitial ads.  
 [Download on Google play store](https://play.google.com/store/apps/details?id=com.CodeKnightGames.CountryRacer).
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oeaLEGAja00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -98,6 +98,6 @@ Game Developer
 - Implemented Enemy AI.
 - Implemented level selection and unlocking system.
 - Created coin collection and scoring system.
-- Implemented monitization using ads.
+- Implemented monitization using ads.  
 [Download on Google play store](https://play.google.com/store/apps/details?id=com.CodeKnightGames.SuperIceBoy).
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hss1YQi_W6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
