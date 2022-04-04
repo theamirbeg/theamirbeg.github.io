@@ -1,8 +1,9 @@
 Game Developer
 ## Portfolio
 
+> # Work in Udayy
 # Shape Shifters  
-> Card game for learning different geometric shapes 
+**Card game for learning different geometric shapes**  
 
 - Implemented dynamic AI which plays offensive/defensive based on the player grade.
 - Created modular deck system which is scalable to add more types of cards.
@@ -83,6 +84,9 @@ Game Developer
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W1jWMd_cR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Country Racer
+**Endless mobile racing game**  
+-	Designed, programmed and published an arcade racing game using C# and Unity 3D.
+-	Created all assets from scratch, all the way from concept to final release.
 - Created a touch based player controller.
 - Created endless level system.
 - Implemneted obstacle spwanning sytem using object pooling to increase game performance.
@@ -92,14 +96,17 @@ Game Developer
 - Implemented infinite scrolling background effect.
 - Created score and high score systems.
 - Implemented monitization using different type of ads such as rewarded ads, banner ads, interstitial ads.  
-[Download on Google play store](https://play.google.com/store/apps/details?id=com.CodeKnightGames.CountryRacer).
+[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.CodeKnightGames.CountryRacer).
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oeaLEGAja00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Super Ice Boy
+# Super Ice Boy  
+**3D platformer mobile game**  
 - Created a physics based platformer player controller.
+- Optimized game code and assets to reduce the download size and to increase performance.
 - Implemented Enemy AI.
 - Implemented level selection and unlocking system.
 - Created coin collection and scoring system.
 - Implemented monitization using ads.  
-[Download on Google play store](https://play.google.com/store/apps/details?id=com.CodeKnightGames.SuperIceBoy).
+- Coordinated 4 playtest sessions which helped in improving game design and mechanics.
+[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.CodeKnightGames.SuperIceBoy).
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hss1YQi_W6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
